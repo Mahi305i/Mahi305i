@@ -1,65 +1,69 @@
-<h1 align="center">Hi 👋, I'm Mahendra</h1>
-<h3 align="center">🚀 CSE Student | AI & ML Enthusiast | IoT Developer</h3>
+<h2>👋 Hi there, I'm Mahendra!</h2>
+
+<p>
+I'm a passionate <b>Computer Science Engineering student</b> focused on building 
+scalable AI systems, automation workflows, and IoT solutions that solve real-world problems.
+</p>
 
 ---
 
-## 🧠 About Me
-- 🎓 Computer Science Engineering student  
-- 🤖 Passionate about AI, Machine Learning & Chatbots  
-- 🔌 IoT Developer (ESP32, ESP8266, Sensors)  
-- 📈 Interested in Algorithmic Trading Bots  
-- 🚀 Building real-world projects & automation systems  
+### 🚀 When I code, I rely on
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=flat"/>
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat"/>
+  <img src="https://img.shields.io/badge/IoT-00C853?style=flat"/>
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat"/>
+ 
+</p>
 
 ---
 
-## 🛠️ Skills
+### 📌 My Featured Projects
 
-### 👨‍💻 Programming
-- Python 🐍  
-- C  
+- 🔐 **Voice Authentication System**  
+  → MFCC + Machine Learning for speaker recognition  
 
-### 🌐 Web Development
-- HTML  
-- Basic Frontend  
+- 🌧️ **IoT Weather Monitoring System**  
+  → ESP8266 + Sensors + Cloud Integration  
 
-### 🤖 AI / ML
-- Machine Learning  
-- Deep Learning (Basics)  
-- NLP (Chatbots)  
-- Deepfake Detection  
+- 🤖 **AI Chatbot using Voiceflow**  
+  → Conversational AI automation  
 
-### 🔌 IoT
-- ESP32 / ESP8266  
-- DHT11, BMP180, Rain Sensor  
-- Blynk, ThingSpeak  
-
-### ⚙️ Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Arduino IDE  
-- n8n Automation  
-- Voiceflow  
+- 📊 **Cold Email Automation System**  
+  → n8n + Gemini API + Gmail integration  
 
 ---
 
-## 📌 Projects
-- 🔐 Voice Authentication using MFCC & Machine Learning  
-- 🌧️ IoT Weather Monitoring System  
-- 🤖 AI Chatbot using Voiceflow  
-- 📊 Automation Workflows (n8n + Gemini API)  
+### 🏆 Achievements
+
+- 📜 Presented Research Paper at **IEEE I3CTCON 2026**
 
 ---
 
-## 🏆 Achievements
-- 📜 Presented Research Paper at IEEE Conference (I3CTCON 2026)
+### 📊 My GitHub Contributions Summary
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 📧 Email: allumahendra3@gmail.com  
+### 📬 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/allumahendra/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:allumahendra3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## ⚡ Fun Fact
-- I love building AI systems that solve real-world problems 🚀
+💡 <i>If you think I deserve a little pick-me-up, feel free to connect with me! ☕</i>
